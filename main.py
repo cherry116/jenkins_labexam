@@ -1,4 +1,4 @@
-num=13
+num=12
 flag = False
 if num > 1:
     for i in range(2, num):
