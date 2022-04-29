@@ -1,4 +1,4 @@
-num=int(input())
+num=13
 flag = False
 if num > 1:
     for i in range(2, num):
